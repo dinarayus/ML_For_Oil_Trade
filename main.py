@@ -18,10 +18,3 @@ else:
                 pass
             else:pass
 
-if a > 2:
-    pass
-elif a == 0:
-    pass
-elif a == -1:
-    pass
-else: pass
